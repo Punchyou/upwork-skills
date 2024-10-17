@@ -1,0 +1,6 @@
+{
+	"name": "Upwork Skills Py3.10",
+	"dockerComposeFile": ["../../docker-compose.yml"],
+	"service": "test",
+	"workspaceFolder": "test"
+}
